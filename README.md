@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/Slashgear_), [Linkedin](https://www.linkedin.com/in/antoine-caron-7089788a/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+![Chou blanc](https://slashgear.github.io//static/chou-blanc-a03fe9990f63583a7e3cbadc425a5893.gif")
