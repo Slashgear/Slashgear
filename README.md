@@ -15,5 +15,8 @@
 
 😄 Pronouns: he/him
 
+Take a look at my blog !
 
+🇫🇷 https://slashgear.github.io/fr/
 
+🇬🇧 https://slashgear.github.io/
