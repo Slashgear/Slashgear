@@ -1,7 +1,7 @@
 ### Olá 👋
 
-
-Here are some ideas to get you started:
+![Slashgear's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slashgear&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slashgear&theme=radical)
 
 - 🔭 I’m currently working on [Bedrock Streaming platform](https://www.bedrockstreaming.com/) as Frontend Dev
 - 🎓 Teaching computer science in engineering school @PolytechLyon
@@ -9,6 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Twitter](https://twitter.com/Slashgear_), [Linkedin](https://www.linkedin.com/in/antoine-caron-7089788a/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
-![Chou blanc](https://slashgear.github.io//static/chou-blanc-a03fe9990f63583a7e3cbadc425a5893.gif)
