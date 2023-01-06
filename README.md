@@ -14,6 +14,6 @@
 
 Take a look at my blog !
 
-🇫🇷 [https://slashgear.github.io/fr/](https://blog.slashgear.dev/fr)
+🇫🇷 [https://blog.slashgear.dev/fr/](https://blog.slashgear.dev/fr)
 
-🇬🇧 [https://slashgear.github.io/](https://blog.slashgear.dev)
+🇬🇧 [https://blog.slashgear.dev/](https://blog.slashgear.dev)
