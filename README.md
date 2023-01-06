@@ -1,8 +1,5 @@
 ### Olá 👋 I'm Antoine Caron aka Slashgear
 
-![Slashgear's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slashgear&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slashgear&theme=radical)
-
 🔭 I’m currently working on [Bedrock Streaming platform](https://www.bedrockstreaming.com/) as Frontend Dev
 
 🎓 Teaching computer science in engineering school [@PolytechLyon](https://polytech.univ-lyon1.fr/)
@@ -17,6 +14,6 @@
 
 Take a look at my blog !
 
-🇫🇷 https://slashgear.github.io/fr/
+🇫🇷 [https://slashgear.github.io/fr/](https://blog.slashgear.dev/fr)
 
-🇬🇧 https://slashgear.github.io/
+🇬🇧 [https://slashgear.github.io/](https://blog.slashgear.dev)
