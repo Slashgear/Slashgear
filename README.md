@@ -8,7 +8,7 @@
 
 💬 Ask me about Anything
 
-📫 How to reach me: [Twitter](https://twitter.com/Slashgear_), [Linkedin](https://www.linkedin.com/in/antoine-caron-7089788a/)
+📫 How to reach me: [Twitter](https://twitter.com/Slashgear_), [Linkedin](https://www.linkedin.com/in/antoine-caron-slash/)
 
 😄 Pronouns: he/him
 
