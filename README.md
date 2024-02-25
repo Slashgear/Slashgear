@@ -1,7 +1,5 @@
 ### Olá 👋 I'm Antoine Caron aka Slashgear
 
-🔭 I’m currently working on [Bedrock Streaming platform](https://www.bedrockstreaming.com/) as Frontend Dev
-
 🎓 Teaching computer science in engineering school [@PolytechLyon](https://polytech.univ-lyon1.fr/)
 
 🌱 I’m currently playing with Rust, Terraform, esbuild, Vite...
