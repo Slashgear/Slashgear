@@ -6,7 +6,7 @@
 
 💬 Ask me about Anything
 
-📫 How to reach me: [Bluesky]([https://twitter.com/Slashgear_](https://bsky.app/profile/slashgear.dev)), [Linkedin](https://www.linkedin.com/in/antoine-caron-slash/)
+📫 How to reach me: [Bluesky](https://bsky.app/profile/slashgear.dev), [Linkedin](https://www.linkedin.com/in/antoine-caron-slash/)
 
 😄 Pronouns: he/him
 
